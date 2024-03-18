@@ -1,0 +1,9 @@
+ouvrir un terminal dans le dossier Projet
+
+cd listprenom-api
+sails lift
+
+dans une autre terminal
+
+cd listprenom
+npm start
